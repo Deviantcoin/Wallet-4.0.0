@@ -10,11 +10,8 @@ Bootstrap http://deviantcoin.io/bootstrap.dat
 Nodes List 
 
 addnode=51.254.165.101
-
 addnode=74.12.2.97
-
 addnode=149.28.11.174
-
 addnode=45.77.63.244
 
 addnode=174.115.27.52
