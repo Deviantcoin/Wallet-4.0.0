@@ -5,6 +5,8 @@ Find the Source Here https://github.com/Deviantcoin/Source
 
 Wallet Masternode Setup Guides https://github.com/Deviantcoin/Wallet/wiki
 
+Bootstrap http://deviantcoin.io/bootstrap.dat
+
 Nodes List 
 
 addnode=51.254.165.101
