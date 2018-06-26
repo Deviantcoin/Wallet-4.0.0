@@ -5,6 +5,9 @@ Find the Source Here https://github.com/Deviantcoin/Source
 
 Wallet Masternode Setup Guides https://github.com/Deviantcoin/Wallet/wiki
 
+RPC Port : 22617
+P2P Port : 22618
+
 Explorer : http://209.97.131.20
 
 Nodes List 
