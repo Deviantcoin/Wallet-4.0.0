@@ -19,3 +19,15 @@ Nodes List
 * addnode=167.99.234.81
 * addnode=138.197.146.236
 * addnode=209.97.131.20
+
+
+# Installation notes for mac users
+There are some software requirents that needs to be fullfilled in order to run the mac wallet for High Sierra.
+Such prerequisite can be installed via brew package manager https://brew.sh
+Brew is a powerful package manager that works via command line, so you need to open your terminal:
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+`
+Once the package manager has been installed, you can install the needed libraries:
+`brew install boost`
+
+Enjoy your look and feel wallet
