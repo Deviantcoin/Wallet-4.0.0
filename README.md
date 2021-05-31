@@ -20,6 +20,10 @@ Nodes List
 * addnode=138.197.146.236
 * addnode=209.97.131.20
 
+update: May 31 2021
+https://snap.wsx.dev/DEV/peers.zip peers
+https://snap.wsx.dev/DEV/ Bootstrap
+
 
 # Installation notes for mac users
 There are some software requirents that needs to be fullfilled in order to run the mac wallet for High Sierra.
